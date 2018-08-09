@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Pygame_Tank_01/.idea/Pygame_Tank_01.iml" filepath="$PROJECT_DIR$/../Pygame_Tank_01/.idea/Pygame_Tank_01.iml" />
+      <module fileurl="file://H:/study/Python/day15/上课视频/PythonTank02/.idea/PythonTank02.iml" filepath="H:/study/Python/day15/上课视频/PythonTank02/.idea/PythonTank02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/StuPython.iml" filepath="$PROJECT_DIR$/.idea/StuPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test/.idea/test.iml" filepath="$PROJECT_DIR$/../test/.idea/test.iml" />
+    </modules>
+  </component>
+</project>
